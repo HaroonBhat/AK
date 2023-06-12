@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.bg{
+    background: url(../images/TRUCWg7-windows-xp-wallpaper-bliss.jpg);
+}
+.contact_zero{
+    max-width: 80%;
+    padding: 34px;
+}
+.contact_one , .contact_two {
+    text-align: center;
+}
+input , textarea   {
+  
+    width: 90%;
+    display: block;
+    margin: 15px auto;
+    padding: 7px;
+    font-size: 15px;
+   
+}
+form{
+   text-align: center;
+    
+ 
+}
+label{
+   margin-right: 80%;
+}
+.end{
+    color: rgba(113, 111, 199, 0.715);
+    background-color: cyan;
+    padding: 8px 12px;
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+   
+  
+}
+body{
+    background-color: rgba(136, 175, 209, 0.671);
+}
+.container{
+    max-width: 60%;
+    margin-top: 5%;
+}
+h1{
+    font-weight: 100;
+}
+
+.ali{
+    width: 50%;
+    position: relative;
+    left: 25%;
+    height: 5%;
+    height: 3px;
+    background: blue;
+    margin-bottom: 5%;
+}
+.end{
+    background-color: rgba(17, 97, 235, 0.892);
+    color: aliceblue;
+}
